@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the flatseal package.
-# ARITRA SAHA CAPSAICIN@TUTA.IO, 2024.
+# ARITRA SAHA <CAPSAICIN@TUTA.IO>, 2024.
 #
 #, fuzzy
 msgid ""
@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: flatseal\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-18 16:26-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2024-10-10 HO:MI+ZONE\n"
+"Last-Translator: ARITRA SAHA <capsaicin@tuta.io>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr "ফ্ল্যাটপ্যাক অনুমতিসমূহ প�
 
 #: data/com.github.tchx84.Flatseal.desktop.in:15
 msgid "seal;sandbox;override;"
-msgstr ""
+msgstr "seal;sandbox;override;"
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:12
 msgid """Flatseal is a graphical utility to review and modify permissions from your ""Flatpak applications."
@@ -52,7 +52,7 @@ msgstr "ফ্ল্যাটসিল গ্লোবাল ওভাররা�
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:35
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:37
 msgid "Martin Abente Lahaye"
-msgstr ""
+msgstr "Martin Abente Lahaye"
 
 #: data/com.github.tchx84.Flatseal.gschema.xml:15
 msgid "Application ID that was last selected"
