@@ -38,7 +38,7 @@ msgstr "ফ্ল্যাটসিল একটি গ্রাফিক্য�
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:21
 msgid "The Flatseal main window"
-msgstr "Flatseal প্রধান উইন্ডো"
+msgstr "ফ্ল্যাটসিল প্রধান উইন্ডো"
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:25
 msgid "Flatseal showing filesystem permissions"
@@ -330,7 +330,7 @@ msgstr "এটি একটি বৈধ বিকল্প নয়"
 
 #: src/widgets/detailsButton.js:60
 msgid "_Show Details"
-msgstr "_বিস্তারিত দেখুন"
+msgstr "বিস্তারিত দেখুন"
 
 #: src/widgets/detailsButton.js:107
 msgid "Show application in a software manager"
@@ -366,15 +366,15 @@ msgstr "সাহায্য"
 
 #: src/widgets/menu.ui:11
 msgid "_Documentation"
-msgstr "_ডকুমেন্টেশন"
+msgstr "ডকুমেন্টেশন"
 
 #: src/widgets/menu.ui:15
 msgid "_Keyboard Shortcuts"
-msgstr "_কীবোর্ড শর্টকাট"
+msgstr "কীবোর্ড শর্টকাট"
 
 #: src/widgets/menu.ui:19
 msgid "_About Flatseal"
-msgstr "_ফ্ল্যাটসিল সম্পর্কে"
+msgstr "ফ্ল্যাটসিল সম্পর্কে"
 
 #: src/widgets/overrideStatusIcon.js:25
 msgid "Changed globally"
@@ -497,7 +497,7 @@ msgstr "ডিফল্ট পথগুলি সরানো যাবে ন�
 #: src/widgets/resetButton.js:37 src/widgets/resetButton.js:55
 #: src/widgets/resetButton.js:62 src/widgets/window.js:106
 msgid "_Reset"
-msgstr "_রিসেট করুন"
+msgstr "রিসেট করুন"
 
 #: src/widgets/resetButton.js:65
 msgid "No changes made to this application"
@@ -589,7 +589,7 @@ msgstr "অনুমতিগুলি রিসেট করা হয়েছ
 
 #: src/widgets/window.js:99
 msgid "_Undo"
-msgstr "_আনডু"
+msgstr "আনডু"
 
 #: src/widgets/window.js:105
 msgid "Cannot load overrides due to incorrect contents"
