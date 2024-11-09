@@ -362,7 +362,7 @@ msgstr "পথ পরিবর্তন"
 
 #: src/widgets/menu.ui:7
 msgid "_Help"
-msgstr "_Help"
+msgstr "সাহায্য"
 
 #: src/widgets/menu.ui:11
 msgid "_Documentation"
