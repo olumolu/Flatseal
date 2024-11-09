@@ -38,7 +38,7 @@ msgstr "ফ্ল্যাটসিল একটি গ্রাফিক্য�
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:21
 msgid "The Flatseal main window"
-msgstr "ফ্ল্যাটসিল প্রধান উইন্ডো"
+msgstr "Flatseal প্রধান উইন্ডো"
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:25
 msgid "Flatseal showing filesystem permissions"
@@ -362,7 +362,7 @@ msgstr "পথ পরিবর্তন"
 
 #: src/widgets/menu.ui:7
 msgid "_Help"
-msgstr "_সাহায্য"
+msgstr "_Help"
 
 #: src/widgets/menu.ui:11
 msgid "_Documentation"
@@ -497,7 +497,7 @@ msgstr "ডিফল্ট পথগুলি সরানো যাবে ন�
 #: src/widgets/resetButton.js:37 src/widgets/resetButton.js:55
 #: src/widgets/resetButton.js:62 src/widgets/window.js:106
 msgid "_Reset"
-msgstr "_রিসেট"
+msgstr "_রিসেট করুন"
 
 #: src/widgets/resetButton.js:65
 msgid "No changes made to this application"
