@@ -33,20 +33,20 @@ msgid "seal;sandbox;override;"
 msgstr "seal;sandbox;override;"
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:12
-msgid """Flatseal is a graphical utility to review and modify permissions from your ""Flatpak applications."
-msgstr "ফ্ল্যাটসিল একটি গ্রাফিক্যাল ইউটিলিটি যা আপনার ফ্ল্যাটপ্যাক অ্যাপ্লিকেশনগুলির অনুমতি পর্যালোচনা এবং পরিবর্তন করতে ব্যবহৃত হয়।"
+msgid "Flatseal is a graphical utility to review and modify permissions from your ""Flatpak applications."
+msgstr "Flatseal একটি গ্রাফিক্যাল ইউটিলিটি যা আপনার ফ্ল্যাটপ্যাক অ্যাপ্লিকেশনগুলির অনুমতি পর্যালোচনা এবং পরিবর্তন করতে ব্যবহৃত হয়।"
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:21
 msgid "The Flatseal main window"
-msgstr "ফ্ল্যাটসিল প্রধান উইন্ডো"
+msgstr "Flatseal প্রধান উইন্ডো"
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:25
 msgid "Flatseal showing filesystem permissions"
-msgstr "ফ্ল্যাটসিল ফাইল সিস্টেম অনুমতি দেখাচ্ছে"
+msgstr "Flatseal ফাইল সিস্টেম অনুমতি দেখাচ্ছে"
 
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:29
 msgid "Flatseal showing global overrides"
-msgstr "ফ্ল্যাটসিল গ্লোবাল ওভাররাইড দেখাচ্ছে"
+msgstr "Flatseal গ্লোবাল ওভাররাইড দেখাচ্ছে"
 
 #. TRANSLATORS: Don't translate this text
 #: data/com.github.tchx84.Flatseal.appdata.xml.in:35
@@ -374,7 +374,7 @@ msgstr "কীবোর্ড শর্টকাট"
 
 #: src/widgets/menu.ui:19
 msgid "_About Flatseal"
-msgstr "ফ্ল্যাটসিল সম্পর্কে"
+msgstr "_Flatseal সম্পর্কে"
 
 #: src/widgets/overrideStatusIcon.js:25
 msgid "Changed globally"
